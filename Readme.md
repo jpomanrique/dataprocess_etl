@@ -91,7 +91,7 @@ def update_user(user):
 ## 📂 Estrutura do Projeto (ETL)
 
 ```
-Pipeline_ETL/
+dataprocess_etl/
 │
 ├── etl.ipynb        # Pipeline ETL (Extract → Transform → Load)
 ├── requirements.txt
@@ -154,3 +154,6 @@ Este repositório representa um **pipeline ETL completo**, desacoplado da API, s
 
 ✍️ Projeto: **Pipeline_ETL**
 
+
+John Peter Oyardo Manrique
+jpomanrique@gmail.com
